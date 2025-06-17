@@ -19,7 +19,7 @@ This project is part of Module 2 of the MERN Fullstack course. The goal is to bu
 
 ## 🧾 Project Structure
 <pre> 
-```Module2_Assignment/
+Module2_Assignment/
 ├── src/
 │ ├── server.ts
 │ ├── routes/
@@ -33,7 +33,7 @@ This project is part of Module 2 of the MERN Fullstack course. The goal is to bu
 ├── tsconfig.json
 ├── postman_collection.json
 └── README.md
-  ```</pre>
+  </pre>
 
 ---
 
