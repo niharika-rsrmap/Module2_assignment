@@ -18,8 +18,8 @@ This project is part of Module 2 of the MERN Fullstack course. The goal is to bu
 ---
 
 ## 🧾 Project Structure
-
-Module2_Assignment/
+<pre> 
+```Module2_Assignment/
 ├── src/
 │ ├── server.ts
 │ ├── routes/
@@ -33,10 +33,7 @@ Module2_Assignment/
 ├── tsconfig.json
 ├── postman_collection.json
 └── README.md
-
-yaml
-Copy
-Edit
+  ```<pre>
 
 ---
 
