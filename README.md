@@ -33,7 +33,7 @@ This project is part of Module 2 of the MERN Fullstack course. The goal is to bu
 ├── tsconfig.json
 ├── postman_collection.json
 └── README.md
-  ```<pre>
+  ```</pre>
 
 ---
 
